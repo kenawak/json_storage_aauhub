@@ -1,1 +1,145 @@
+[
+  {
+    "name": "Addis Ababa Institute of Technology",
+    "location": "5-Kilo",
+    "description": "Leading the way in Ethiopian engineering since 1965!  Undergraduate & graduate programs in Civil, Electrical, Mechanical, Chemical & more. Fosters innovation & research to power the nation's future.",
+    "id": 1,
+    "stream": "Natural",
+    "img": "/images/campuses/AAiT.jpg",
+    "href": "http://www.aau.edu.et/aait/",
+    "depts": 10
+  },
+  {
+    "name": "College of Natural & Computational",
+    "location": "4Kilo",
+    "description": "Explore nature & unravel its secrets! Offers programs in Physics, Chemistry, Biology, Math, Computer Science & more. Dive deep with world-class research & innovation. ",
+    "id": 2,
+    "stream": "Social",
+    "img": "/images/campuses/AAiT.jpg",
+    "href": "http://www.aau.edu.et/cns/",
+    "depts": 1
+  },
+  {
+    "name": "College of Social Sciences",
+    "location": "6Kilo",
+    "description": "Understand humans & society! Explore History, Philosophy, Geography, Sociology, Politics & more. Shape a just & equitable future. ",
+    "id": 3,
+    "stream": "Social",
+    "img": "/images/campuses/6-kilo.jpg",
+    "href": "http://www.aau.edu.et/css/"
+  },
 
+  {
+    "name": "Humanities, Lang. & Journal Studies",
+    "location": "6Kilo",
+    "description": "Explore languages, history, & cultures! Amharic, English, History, Philosophy & more. Fosters critical thinking & global understanding.",
+    "id": 4,
+    "stream": "Social",
+    "href":"http://www.aau.edu.et/chls/",
+    "img": "/images/campuses/6-kilo.jpg",
+    "depts": 18
+
+  },
+  {
+    "name": "Business & Economics",
+    "location": "FBE",
+    "description": "Ethiopia's top biz school since 1943!  Offers undergrad, grad & PhD programs in Accounting, Finance, Economics, Management, Public Admin & more.  Strong research & industry ties. ",
+    "id": 5,
+    "stream": "Social",
+    "img": "/images/campuses/FBE.jpg",
+    "href":"http://www.aau.edu.et/cbe/",
+    "depts": 12
+  },
+  {
+    "name": "College of Law & Governance",
+    "location": "6Kilo",
+    "description": "Shape justice! Law, human rights, & federal studies. Train lawyers, policymakers, & leaders for a just & equitable society.",
+    "id": 6,
+    "stream": "Natural",
+    "img": "/images/campuses/6-kilo.jpg",
+    "href": "http://www.aau.edu.et/clgs/",
+    "depts": 1
+  },
+
+  {
+    "name": "Ethiopian Institute of Architecture",
+    "location": "Lideta",
+    "description": "Design your future! Shape Ethiopia's built environment & urban spaces. Offers programs in Architecture, Construction & Urban Planning. Fosters innovation & sustainability.",
+    "id": 7,
+    "stream": "Natural",
+    "img": "/images/campuses/lideta.jpg",
+    "href": "http://www.aau.edu.et/eiabc/",
+    "depts": 2
+  },
+  {
+    "name": "College of Performing and Visual Arts",
+    "location": "JanMeda",
+    "description": "Unleash your creativity! Music, Theatre, Fine Arts & Film. Hone your talent, express yourself & shape the future of Ethiopian arts. ",
+    "id": 8,
+    "stream": "Social",
+    "img": "/images/campuses/yared.jpg",
+    "href": "http://www.aau.edu.et/cpva/",
+    "depts": 1
+  },
+  {
+    "name": "Education & Behavioral Studies",
+    "location": "6kilo",
+    "description": "Train teachers, psychologists, education leaders & specialists. Develop high-caliber professionals for Ethiopia's future.",
+    "id": 9,
+    "stream": "Social",
+    "href":"http://www.aau.edu.et/cebs/",
+    "img": "/images/campuses/6-kilo.jpg",
+    "depts": 29
+  },
+  {
+    "name": "College of Vet. Medicine and Agriculture",
+    "location": "Bishoftu",
+    "description": "Nurture animals, nourish lives! Train vets, agronomists, & food scientists. Ensure animal health, food security & sustainable agri.",
+    "id": 10,
+    "stream": "Natural",
+    "href":"http://www.aau.edu.et/cvma/",
+    "img": "/images/campuses/bishoftu-campus.jpg",
+    "depts": 8
+  },
+  {
+    "name": "College of Health Sciences",
+    "location": "",
+    "description": "Be a health hero! Doctors, nurses, pharmacists, & more. Train to heal, improve health, & advance Ethiopia's well-being. ",
+    "id": 11,
+    "stream": "Natural",
+    "img": "/images/campuses/sefere-selam.jpg",
+    "href": "http://www.aau.edu.et/chs/",
+    "depts": 3
+  },
+  {
+    "name": "School of Medicine",
+    "location": "Sefere Selam",
+    "description": "Nurturing future healers! MD program trains skilled, ethical doctors equipped to serve Ethiopia's healthcare needs. Strong clinical focus, research opportunities.",
+    "id": 12,
+    "stream": "Natural",
+    "img": "/images/campuses/tikur-anbesa.jpg",
+    "href": "http://www.aau.edu.et/medicine/",
+    "depts":6
+
+  },
+  {
+    "name": "School of Nursing & Midwifery",
+    "location": "SefereSelam",
+    "description": "Care with expertise! B.Sc. programs in Nursing & Midwifery train compassionate, competent professionals. Serve communities, improve health outcomes.",
+    "id": 13,
+    "stream": "Natural",
+    "img": "/images/campuses/sefere-selam.jpg",
+    "href": "http://www.aau.edu.et/midwifery/",
+    "depts":3  
+  },
+  {
+    "name": "School of Pharmacy",
+    "location": "Mesalemia",
+    "description": "Your gateway to a career in pharmaceutical care! Learn about drugs, their effects, and dispensing them safely. Bachelor's degree equips you for pharmacies, hospitals, and community healthcare. Shape healthier lives.",
+    "id": 14,
+    "stream": "Social",
+    "img": "/images/campuses/sefere-selam.jpg",
+    "href": "http://www.aau.edu.et/pharmacy/",
+    "depts":1
+  }
+]
