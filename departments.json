@@ -1,1 +1,711 @@
+[
+  {
+    "name": "Chemical Engineering",
+    "held_at": "AAiT | 5Kilo",
+    "description":
+      "Our program fosters deep understanding of chemical engineering principles, hands-on experience, and proficiency in modern tools. Graduates excel in problem-solving, communication, teamwork, and designing efficient process units with a focus on safety and environmental awareness.",
+          "id": 1,
+    "stream": "Natural"
+  },
+  {
+    "name": "Biomedical Engineering",
+    "held_at": "AAiT | 5Kilo",
+    "description":
+      "Our program aims to train Biomedical Engineers adept in designing, developing, installing, operating, and maintaining medical equipment. Graduates will contribute to enhancing the healthcare system, conducting research tailored to the country's needs in the field of biomedical engineering.",
+          "id": 2,
+    "stream": "Natural"
+  },
+  {
+    "name": "Civil Engineering",
+    "held_at": "AAiT | 5Kilo",
+    "description":
+      "Civil Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 3,
+    "stream": "Natural"
+  },
+  {
+    "name": "Electrical & Comp. Engineering",
+    "held_at": "AAiT | 5Kilo",
+    "description":
+      "Given under School of Electrical and computer Engineering, to train high level technical manpower which can participate in the national development activities.",
+    "id": 4,
+    "stream": "Natural"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "held_at": "AAiT | 5Kilo",
+    "description":
+      "Under the School of Mechanical and Industrial Engineering, educate trainable, broad based mechanical engineers that can fit in the different application areas of mechanical engineering after given on job training for about a year.",
+    "id": 5,
+    "stream": "Natural"
+  },
+  {
+    "name": "Software Engineering",
+    "held_at": "AAiT | 5Kilo",
+    "description":
+      "Our course ensures graduates master methodologies and tools for high-standard software development. With global competence, they design, develop, and maintain industrial-grade software. The program fosters ICT research skills, creating versatile Software Engineers.",
+    "id": 6,
+    "stream": "Natural"
+  },
+  {
+    "name": "Accounting & Finance",
+    "held_at": "Commerce",
+    "description":"Produce graduates for accounting and finance demand. Enhance instruction through applied research. Provide a strong academic and professional base. Be a major consultancy provider. Ensure 80% of second and third-year students participate in internships. Establish linkage programs with stakeholders for resources and experiences.",
+    "id": 7,
+    "stream": "Social"
+  },
+  {
+    "name": "Accounting & Finance",
+    "held_at": "CBE | FBE",
+    "description":"Produce graduates for accounting and finance demand. Enhance instruction through applied research. Provide a strong academic and professional base. Be a major consultancy provider. Ensure 80% of second and third-year students participate in internships. Establish linkage programs with stakeholders for resources and experiences.",  
+    "id": 8,
+    "stream": "Social"
+  },
+  {
+    "name": "Administrative Service Management",
+    "held_at": "Commerce",
+    "description":
+      "Understand Admin Services Management. Develop effective communication skills. Establish productive relationships. Execute administrative tasks. Apply business functions and economic principles. Manage human resources. Prepare reports and consolidate data. Familiarity with procurement and logistics. Apply ergonomic office management. Utilize office machines and ICT.",
+    "id": 9,
+    "stream": "Social"
+  },
+  {
+    "name": "Business Admin. & Information System",
+    "held_at": "Commerce",
+    "description":
+      "Develop business-oriented systems professionals with problem-solving skills. Identify opportunities for IT enhancement. Cultivate communication competence for liaising between technical and non-technical teams. Design diverse information system components collaboratively. Lead and manage teams in system development. Participate in IT-driven product innovation. Prepare students for Information Systems consultancy.",
+    "id": 10,
+    "stream": "Social"
+  },
+  {
+    "name": "Economics",
+    "held_at": "CBE | FBE",
+    "description":"Produce high-level economics professionals for sustainable development. Offer a comprehensive foundation for careers and further studies. Equip students with economic theory applied to development and global issues. Generate qualified experts, research findings, and consultancy for national development. Contribute to Ethiopia's Growth and Transformation Plan.",
+    "id": 11,
+    "stream": "Social"
+  },
+  {
+    "name": "Economics",
+    "held_at": "Commerce",
+    "description":"Produce high-level economics professionals for sustainable development. Offer a comprehensive foundation for careers and further studies. Equip students with economic theory applied to development and global issues. Generate qualified experts, research findings, and consultancy for national development. Contribute to Ethiopia's Growth and Transformation Plan.",
+    "id": 12,
+    "stream": "Social"
+  },
+  {
+    "name": "Logistics and Supply",
+    "held_at": "CBE | FBE",
+    "description":"Produce skilled logistics graduates with updated knowledge. Develop production planning, supply chain management, and negotiation skills. Equip students for domestic and foreign purchasing, banking, and customs clearance. Advance knowledge through research in logistics and supply chain management.",
+    "id": 13,
+    "stream": "Social"
+  },
+  {
+    "name": "Management",
+    "held_at": "CBE | FBE",
+    "description":"Train professionals in planning, organizing, directing, and controlling across sectors. Develop competence in managing marketing, finance, HR, materials, and information resources. Foster responsiveness, effective collaboration, decision-making, problem-solving, and adaptability in complex and competitive environments.",
+    "id": 14,
+    "stream": "Social"
+  },
+  {
+    "name": "Management",
+    "held_at": "Commerce",
+    "description":"Train professionals in planning, organizing, directing, and controlling across sectors. Develop competence in managing marketing, finance, HR, materials, and information resources. Foster responsiveness, effective collaboration, decision-making, problem-solving, and adaptability in complex and competitive environments.",
+    "id": 15,
+    "stream": "Social"
+  },
+  {
+    "name": "Marketing Management",
+    "held_at": "Commerce",
+    "description":"Understand marketing theories, apply concepts in various situations. Comprehend customer behavior for decision-making. Execute global marketing management functions. Conduct ethical marketing research. Manipulate marketing mix for organizational goals. Contribute to marketing practices.",
+    "id": 16,
+    "stream": "Social"
+  },
+  {
+    "name": "Public Admin. & Dev'p",
+    "held_at": "CBE | FBE",
+    "description":"Develop analytical skills for public administration. Equip students for ethical, effective management. Foster critical analysis of policy, program formulation, and resource management. Prepare mid-level professionals for public sector. Address gaps in Ethiopia's public sector. Provide skills for effective institution management. Build foundation for graduate study.",
+    "id": 17,
+    "stream": "Social"
+  },
+   {
+    "name": "Educational Planning & Management",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Produce educational leaders and researchers who can address educational demands and challenges through critical analysis of educational institutions’ environment (political, economic, socio-cultural, and technological).",
+    "id": 18,
+    "stream": "Social"
+  },
+  {
+    "name": "Psychology",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "produce qualified psychologists who work in various governmental, non-governmental, and private agencies; carry out quality research on various psychological, educational and social issues; ",
+    "id": 19,
+    "stream": "Social"
+  },
+  {
+    "name": "Special Needs & Inclusive",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "To respond to and support the implementation of GTP and ESDP (2010) that has given high emphasis for the implementation of special needs education. ",
+    "id": 20,
+    "stream": "Social"
+  },
+  {
+    "name": "Amharic Lang. & Literature",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Train professionals in writing, criticism, PR, editing, and translation. Develop researchers in literature and human concerns. Conduct short-term training and workshops on language skills, report writing, literature principles, and translation. Provide language services like translation, editing, and curriculum preparation. Conduct research on Ethiopian languages and literatures, offering consultancy on organizational issues and participating in regional/national forums.",
+    "id": 21,
+    "stream": "Social"
+  },
+  {
+    "name": "Biology",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 22,
+    "stream": "Social"
+  },
+  {
+    "name": "Civic & Moral Education",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 23,
+    "stream": "Social"
+  },
+  {
+    "name": "Speech-Language Therapy",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "To alleviate the burden of the country in the area of communication and swallowing disabilities and provide evidence based support to children and adults with speech, language, communication and swallowing difficulties. ",
+    "id": 24,
+    "stream": "Social"
+  },
+  {
+    "name": "English Language Teaching",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 25,
+    "stream": "Social"
+  },
+  {
+    "name": "Chemistry",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 26,
+    "stream": "Social"
+  },
+  {
+    "name": "Geography",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 27,
+    "stream": "Social"
+  },
+  {
+    "name": "Mathematics",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 28,
+    "stream": "Social"
+  },
+  {
+    "name": "Physical Education",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 29,
+    "stream": "Social"
+  },
+  {
+    "name": "Phyics",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 30,
+    "stream": "Social"
+  },
+  {
+    "name": "Afan Oromo & Literature",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Equip learners with foundational professional knowledge and skills for diverse settings. Provide general language rules in literature, mass media, PR, and communication. Foster collaborative and student-centered learning with problem-solving techniques.",
+    "id": 31,
+    "stream": "Social"
+  },
+  {
+    "name": "Doctor of Physiotherapy",
+    "held_at": "Tikur Anbesa",
+    "description":
+      "Produce primary care physiotherapists addressing diverse patient needs. Cultivate leaders advocating for practice standards and professional excellence. Foster autonomous practice and collaboration. Emphasize critical thinking and evidence-based approaches in examination, intervention, and outcomes. Prepare for future studies and business involvement in a changing healthcare system. Contribute to capacity building in modern physical medicine.",
+    "id": 32,
+    "stream": "Natural"
+  },
+  {
+    "name": "Radiological Technology",
+    "held_at": "Tikur Anbesa",
+    "description":
+      "",
+    "id": 33,
+    "stream": "Natural"
+  },
+  {
+    "name": "Other Health",
+    "held_at": "Tikur Anbesa",
+    "description":
+      "",
+    "id": 34,
+    "stream": "Natural"
+  },
+  {
+    "name": "Anesthesia",
+    "held_at": "Sefere Selam",
+    "description":"Train students in diverse anesthesia administration, CPR, pain management, and complication recognition. Ensure optimal patient safety, hazard management, and resourceful airway support. Foster effective teamwork and organizational skills for anesthetic care.",
+    "id": 35,
+    "stream": "Natural"
+  },
+  {
+    "name": "Doctor of Dental Medicine",
+    "held_at": "Sefere Selam",
+    "description":"Train professionals for community oral education and health promotion. Develop competence in epidemiological prophylaxis and primary dental care. Enhance understanding of oral health practitioner roles. Apply knowledge in diagnosis and treatment, comply with ethical codes, and strengthen research skills for community projects.",
+    "id": 36,
+    "stream": "Natural"
+  },
+  {
+    "name": "Doctor of Medicine",
+    "held_at": "Sefere Selam",
+    "description":"Teach medical students lifelong learning, communication, and resource management. Enable high standards of clinical service and ethical behavior. Train for scholarly research and active community health involvement.",
+    "id": 37,
+    "stream": "Natural"
+  },
+  {
+    "name": "Medical Laboratory",
+    "held_at": "Sefere Selam",
+    "description":"Train lab practitioners for comprehensive health services, research in clinical lab sciences and public health, and active community involvement in health problem-solving.",
+    "id": 38,
+    "stream": "Natural"
+  },
+  {
+    "name": "Midwifery",
+    "held_at": "Sefere Selam",
+    "description":"Produce competent midwifery professionals as practitioners, leaders, and researchers in reproductive health services at all healthcare levels.",
+    "id": 39,
+    "stream": "Natural"
+  },
+  {
+    "name": "Nursing",
+    "held_at": "Sefere Selam",
+    "description":"Provide nursing care based on sound scientific processes. Demonstrate competence in nursing skills from physical, biological, and behavioral sciences. Participate in the full healthcare system. Demonstrate leadership, decision-making, teaching, management, and ethical values.",
+    "id": 40,
+    "stream": "Natural"
+  },
+  {
+    "name": "Pharmacy",
+    "held_at": "Sefere Selam",
+    "description":"Train patient-oriented pharmacists with broad knowledge adaptable to diverse pharmaceutical services. Provide practice-based training for problem-solving skills. Aim to produce highly qualified pharmacists meeting global healthcare expectations while addressing local needs.",
+    "id": 41,
+    "stream": "Natural"
+  },
+  {
+    "name": "Oromo Language & Communication",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 42,
+    "stream": "Socail"
+  },
+  {
+    "name": "Oromo Literature & Folklore",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 43,
+    "stream": "Socail"
+  },
+  {
+    "name": "Afan Oromo, Literature & Communication",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 44,
+    "stream": "Socail"
+  },
+  {
+    "name": "Arabic Language & Communication",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Train Arabic language professionals for roles in government, NGOs, international organizations, and education. Provide intensive courses in Arabic language and literature, emphasizing cultural awareness. Foster scholarly research and conduct basic research initiatives.",
+    "id": 45,
+    "stream": "Social"
+  },
+  {
+    "name": "Chinese Language",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "The B.A. Program in Chinese Language integrates language and culture, producing graduates with a strong Chinese language foundation, deep cultural knowledge, understanding of modern Chinese society, and readiness for employment and further China-related study. Key points: Chinese language, culture, strong foundation, cultural knowledge, modern Chinese society, employment readiness.",
+    "id": 46,
+    "stream": "Social"
+  },
+  {
+    "name": "English Language & Communication",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Equip students with fundamental English language skills for diverse purposes. Provide knowledge of language functions, linguistic study, literary appreciation, and criticism. Enable research and develop communication, PR, media use, translation, and interpretation skills. Key points: English language skills, linguistic study, literary appreciation, research, communication skills, translation.",
+    "id": 47,
+    "stream": "Social"
+  },
+  {
+    "name": "Ethiopian Lang. Literature- Amharic",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "",
+    "id": 48,
+    "stream": "Social"
+  },
+  {
+    "name": "Ethiopian Sign Language",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Train Sign Language teachers, linguists, and interpreters. Empower the Deaf, promote EthSL research, collaboration, and consultancy. Address student demands, fostering inclusivity and combating discrimination.",
+    "id": 49,
+    "stream": "Social"
+  },
+  {
+    "name": "French Language and Professional Skills",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Intensive French courses, cultural awareness, and intercultural attitudes. Train high-level French language professionals for international organizations. Develop students' planning and execution skills in French. Emphasize multimedia tools, build confidence, autonomy, and stimulate creative thinking. Offer practical courses for career readiness. Foster scholarly research.",
+    "id": 50,
+    "stream": "Social"
+  },
+  {
+    "name": "Journalism and Communication",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "AAU's BA Journalism and Communication program aims to impart media knowledge, journalism skills, and mass communication theories. Emphasizing broadcast media, students specialize in Radio/TV journalism, integrating critical journalism with media, democracy, and development theories.",
+    "id": 51,
+    "stream": "Social"
+  },
+  {
+    "name": "Linguistics",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Train medium-level personnel for diverse roles. Provide consultancy for language and culture promotion. Create awareness about linguistic and cultural values in a multicultural society.",
+    "id": 52,
+    "stream": "Social"
+  },
+  {
+    "name": "Modern European Languages",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Students acquire B2-level language skills in two languages. Develop high-level manpower for governments and international organizations. Emphasize multimedia tools and foster confidence, autonomy, creative thinking, and critical abilities. Equip students for scholarly research.",
+    "id": 53,
+    "stream": "Social"
+  },
+  {
+    "name": "Tigrigna Lang. Literature & Folklore",
+    "held_at": "Sefere Selam",
+    "description":
+      "Produce graduates integrating social science, linguistic, and literary theories. Conduct and document research on cultural phenomena. Equip graduates with language skills to analyze social problems. Develop competency in language policy formulation, evaluation, and analysis. Provide professional communication skills and foster cultural diversity understanding.",
+    "id": 54,
+    "stream": "Social"
+  },
+  {
+    "name": "Journalism and Communication",
+    "held_at": "Sefere Selam",
+    "description":
+      "",
+    "id": 55,
+    "stream": "Social"
+  },
+  {
+    "name": "Bachelor of Laws",
+    "held_at": "Sefere Selam",
+    "description":
+      "to equip students with basic knowledge of major national legislations and procedures, along with the skills of legal interpretation required to solve legal problems; ",
+    "id": 56,
+    "stream": "Social"
+  },
+  {
+    "name": "Biology",
+    "held_at": "4kilo",
+    "description":"Enable students to acquire practical and technical skills in biological tools. Produce responsible graduates committed to the profession. Train students to apply biology principles to solve societal problems. Prepare candidates for teaching biology. Establish a tradition of research-oriented and practical biology education. Produce trainable manpower for advanced biological fields. Develop graduates capable of analyzing and presenting biological data.",
+    "id": 57,
+    "stream": "Natural"
+  },  
+  {
+    "name": "Chemistry",
+    "held_at": "4kilo",
+    "description":"Train skilled chemists for roles in industries, education, research, and environmental conservation. Active participation in professional activities, dissemination of knowledge, consultancy services, and fostering job creation through applied skills.",    "id": 58,
+    "stream": "Natural"
+  },  
+  {
+    "name": "Computer Science",
+    "held_at": "4kilo",
+    "description":"Educate students for the dynamic science and tech market. Foster lifelong learning through computer science, basic sciences, and general education. Encourage innovation to tackle new challenges. Establish a robust foundation for potential post-graduate studies, instilling confidence in students.",
+    "id": 59,
+    "stream": "Natural"
+  },  
+  {
+    "name": "Geology",
+    "held_at": "4kilo",
+    "description":
+      "Carry out professional work in various ministries, institutions and companies engaged in activities related to the broad fields of the geosciences and Identify geological problems and work towards their solution through independent or collaborative research. ",
+    "id": 60,
+    "stream": "Natural"
+  },  
+  {
+    "name": "Informatiom Systems",
+    "held_at": "4kilo | CBE",
+    "description":
+      "Gain theoretical knowledge in computer functionalities and its application to businesses. Acquire expertise in information organization, storage, retrieval, and dissemination. Understand computers, communication systems, software engineering, network design, and database management. Develop skills in organizational behavior, business information processing, information systems analysis and design, programming, and business process engineering.",
+    "id": 61,
+    "stream": "Natural"
+  },  
+  {
+    "name": "Library Science",
+    "held_at": "4kilo",
+    "description":
+      "",
+    "id": 62,
+    "stream": "Natural"
+  },  
+  {
+    "name": "Mathematics",
+    "held_at": "4kilo",
+    "description":
+      "Train qualified mathematicians for Ethiopia's scientific and technological development. Impart knowledge through teaching and advance knowledge through research.",
+    "id": 63,
+    "stream": "Natural"
+  },  
+  {
+    "name": "Sport Science",
+    "held_at": "4kilo",
+    "description":
+      "Train students in sports, exercise science, and coaching, ensuring quality education. Develop academically competent professionals for diverse sectors. Enhance coaching skills, organize activities, provide advisory services, and foster national and international collaboration.",
+    "id": 64,
+    "stream": "Natural"
+  },
+  {
+    "name": "Statistics",
+    "held_at": "4kilo",
+    "description":
+      "Train statisticians for socio-economic, business, and development sectors. Equip them with middle-level skills to meet national demands. The program emphasizes practical applications for effective contribution to diverse fields.",
+    "id": 65,
+    "stream": "Natural"
+  },
+  {
+    "name": "Phyics",
+    "held_at": "4kilo",
+    "description":"Prepare graduates for advanced physics studies, diverse careers, and societal responsibilities. Produce skilled physicists for various sectors, disseminate knowledge, and contribute to professional activities and publications. Develop capabilities for consultancy, training, and job creation.",
+    "id": 100,
+    "stream": "Natural"
+  },
+  {
+    "name": "Fine Arts & Design",
+    "held_at": "4kilo",
+    "description":
+      "",
+    "id": 66,
+    "stream": "Natural"
+  },
+  {
+    "name": "Music",
+    "held_at": "4kilo",
+    "description":
+      "",
+    "id": 67,
+    "stream": "Natural"
+  },
+  {
+    "name": "Theatre Arts",
+    "held_at": "4kilo",
+    "description":
+      "",
+    "id": 68,
+    "stream": "Natural"
+  },
+  {
+    "name": "Art Education",
+    "held_at": "4kilo",
+    "description":
+      "",
+    "id": 69,
+    "stream": "Natural"
+  },
+  {
+    "name": "Industrial Design",
+    "held_at": "4kilo",
+    "description":
+      "",
+    "id": 70,
+    "stream": "Natural"
+  },
+  {
+    "name": "Painting",
+    "held_at": "4kilo",
+    "description":
+      "",
+    "id": 71,
+    "stream": "Natural"
+  },
+  {
+    "name": "Print Making",
+    "held_at": "4kilo",
+    "description":
+      "",
+    "id": 72,
+    "stream": "Natural"
+  },
+  {
+    "name": "Sculpture",
+    "held_at": "4kilo",
+    "description":
+      "",
+    "id": 73,
+    "stream": "Natural"
+  },
+  {
+    "name": "Social Work Degree",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Produce students with foundational knowledge and skills for social interventions. Enhance critical thinking and communication in Social Work. Equip with research methods, ethics, and practices for effective problem mitigation. Foster appreciation for diversity and mutual respect.",
+    "id": 74,
+    "stream": "Social"
+  },
+  {
+    "name": "Archeology Heritage & Tourism",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Train professionals in Archaeology and Heritage Management for diverse roles. Develop skills for heritage management, planning, and policy-making. Prepare instructors for higher education. Equip graduates for impactful roles in public and private sectors, focusing on archaeology, heritage management, and tourism.",
+    "id": 75,
+    "stream": "Social"
+  },
 
+  {
+    "name": "Geography & Environmental Studies",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Train well-rounded professionals in spatiotemporal processes, problem-solving, and data analysis for environmental understanding. Foster confidence, commitment to societal change, and community development. Conduct impactful research, provide professional training and consultancy services, contributing to environmental, social, and economic development.",
+    "id": 76,
+    "stream": "Social"
+  },
+
+  {
+    "name": "History",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "The objectives are to train historians for societal problem-solving, research Ethiopia's history comprehensively, foster understanding of the Horn of Africa's past, promote tolerance and diversity appreciation, instill a global perspective, prepare students for diverse careers, and train qualified History teachers for secondary education.",
+    "id": 77,
+    "stream": "Social"
+  },
+  {
+    "name": "Philosophy",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Promote philosophy study and research, enhance department faculty profile, and encourage interdisciplinary research and exchange by reflecting on philosophical perspectives.",
+    "id": 78,
+    "stream": "Social"
+  },
+  {
+    "name": "Political Science & International Relations",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Build teaching and research capacity in political science and international relations. Offer undergraduate and graduate training. Produce skilled professionals for various sectors. Cultivate intellectually competent graduates. Encourage interdisciplinary research, focusing on contemporary political developments globally, especially in Ethiopia and Africa.",
+    "id": 79,
+    "stream": "Social"
+  },
+  {
+    "name": "Social Anthroplogy",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Produce graduates with anthropological knowledge and research skills. Integrate theoretical and practical aspects for original research. Prepare competent managers for cultural heritage, tourism, research, youth, and culture sectors. Document and study Ethiopian cultures. Conduct training programs. Engage in policy debates, collaborate nationally and internationally. Contribute to development through community services, cultural heritage preservation, and interdisciplinary research.",
+    "id": 80,
+    "stream": "Social"
+  },
+  {
+    "name": "Sociology",
+    "held_at": "Main | 6Kilo",
+    "description":
+      "Produce Sociology graduates adept at integrating theory, research, and practice. Train manpower understanding and contributing to the country's conditions. Equip graduates to participate in research on poverty's causes and consequences.",
+    "id": 81,
+    "stream": "Social"
+  },
+  {
+    "name": "Agricultural Economics",
+    "held_at": "Bishoftu",
+    "description":
+      "Produce Agricultural Economics graduates for efficient resource use. Cultivate committed, socially accountable economists for socio-economic research. Engage in community services. Offer consultancy for governmental and non-governmental organizations.",
+    "id": 82,
+    "stream": "Natural"
+  },
+  {
+    "name": "Animal Science",
+    "held_at": "Bishoftu",
+    "description":
+      "Produce animal sciences professionals for expertise and entrepreneurship. Train for extension activities and research. Develop dedicated, accurate, team-oriented experts with a positive attitude towards rural development. Provide consultative services, foster technical innovation, and instill good professional ethics for national development goals.",
+    "id": 83,
+    "stream": "Natural"
+  },
+  {
+    "name": "Horticulture",
+    "held_at": "Bishoftu",
+    "description":
+      "Equip students with horticultural knowledge and skills, focusing on production, breeding, protection, and soil fertility. Foster problem-solving through research and extension. Provide expertise in handling fruit plants. Integrate teaching, research, and extension to disseminate improved technologies to farmers.",
+    "id": 84,
+    "stream": "Natural"
+  },
+  {
+    "name": "Plant Science",
+    "held_at": "Bishoftu",
+    "description":
+      "Produce skilled manpower for global plant tech contribution. Provide knowledge in natural resources, crop production, and protection. Foster problem-solving through research and extension. Develop skills for environmental conservation. Integrate training, research, and extension for efficient technology dissemination. Enable relevant plant science research. Offer professional services to the community and policymakers.",
+    "id": 85,
+    "stream": "Natural"
+  },
+  {
+    "name": "Veterinary Laboratory Tech.",
+    "held_at": "Bishoftu",
+    "description":
+      "Produce qualified Veterinary Laboratory Technology graduates for diverse livestock sectors. Equip with knowledge and skills for veterinary medicine and public health. Develop expertise in laboratory analysis for disease diagnosis and control. Cultivate logical thinking, communication, and research skills. Enhance graduates' attitudes and management skills for various animal settings. Foster self-employment and employment readiness in private clinics, farms, pharmaceutical companies, and more.",
+    "id": 86,
+    "stream": "Natural"
+  },
+  {
+    "name": "Doctor of Veterinary Medicine",
+    "held_at": "Bishoftu",
+    "description":
+      "Produce versatile veterinarians skilled in general practice, food and companion animal care, and public health. Equip with expertise in disease diagnosis, treatment, prevention, and research. Enhance food resources through effective disease monitoring and control. Improve livestock production, considering environmental and cultural factors. Conduct ongoing education for animal health personnel. Promote problem-solving research and disseminate findings. Offer public and consultancy services in animal health and production.",
+    "id": 87,
+    "stream": "Natural"
+  },
+  {
+    "name": "Architecture",
+    "held_at": "Lideta",
+    "description":
+      "Foster skilled, innovative, ethical designers/builders, emphasizing critical thinking. Cultivate intellectually mature, eco-conscious, and socially responsible professionals.",
+    "id": 88,
+    "stream": "Natural"
+  },
+  {
+    "name": "Construction Technology & Management",
+    "held_at": "Lideta",
+    "description":
+      "Meet program admission criteria; secure a recommendation from the VP of Business and Development; commit to serving the University for at least two years post-graduation (1:2 service-to-study ratio).",
+    "id": 89,
+    "stream": "Natural"
+  },
+  {
+    "name": "Urban Planning & Design",
+    "held_at": "Lideta",
+    "description":
+      "Evolution of Urban Planning in response to Industrial Revolution; Hall (1992) identifies three stages: Master Plan era (pre-mid 1960s), System View era (around 1960), and Continuous Participation era (late 1960s onwards). Each phase reflects shifts in politics, economics, and planning ideologies.",
+    "id": 90,
+    "stream": "Natural"
+  } 
+]
