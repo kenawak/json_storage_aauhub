@@ -1,1 +1,982 @@
+ [
+  {
+    "id": 1,
+    "name": "Chemical Engineering",
+    "img": "./images/icons/education.png",
+    "years": 4,
+    "gpa": 75,
+    "under": "AAiT",
+    "tgChannel": "http://google.com/"
+  },
+  {
+    "id": 2,
+    "name": "Biomedical Engineering",
+    "img": "./images/icons/education.png",
+    "years": 4,
+    "gpa": 75,
+    "under": "AAiT",
+    "tgChannel": "http://google.com/"
+  },
+  {
+    "id": 3,
+    "name": "Civil Engineering",
+    "img": "./images/icons/education.png",
+    "years": 4,
+    "gpa": 75,
+    "under": "AAiT",
+    "tgChannel": "http://google.com/"
+  },
+  {
+    "id": 4,
+    "name": "Electrical & Comp. Eng",
+    "img": "./images/icons/education.png",
+    "years": 4,
+    "gpa": 75,
+    "under": "AAiT",
+    "tgChannel": "http://google.com/"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Engineering",
+    "img": "./images/icons/education.png",
+    "years": 4,
+    "gpa": 75,
+    "under": "AAiT",
+    "tgChannel": "http://google.com/"
+  },
+  {
+    "id": 6,
+    "name": "Software Engineering",
+    "img": "./images/icons/education.png",
+    "under": "AAiT",
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/"
+  },
+  {
+    "name": "Accounting & Finance",
+    "under": "Commerce",
+    "description":
+      "Accounting & Finance is a specialized field within the realm of business and administration. It concentrates on the effective organization and management of administrative organizations.",
+    "id": 7,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Accounting & Finance",
+    "under": "CBE | FBE",
+    "description":
+      "Accounting & Finance is a specialized field within the realm of business and administration. It concentrates on the effective organization and management of administrative organizations.",
+    "id": 8,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Administrative Service Management",
+    "under": "Commerce",
+    "description":
+      "It is a specialized field within the realm of business and administration. It concentrates on the effective organization and management of administrative organizations.",
+    "id": 9,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Business Admin. & Information System",
+    "under": "Commerce",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 10,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Economics",
+    "under": "CBE | FBE",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 11,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Economics",
+    "under": "Commerce",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 12,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Logistics and Supply",
+    "under": "CBE | FBE",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 13,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Management",
+    "under": "CBE | FBE",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 14,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Management",
+    "under": "Commerce",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 15,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Marketing Management",
+    "under": "Commerce",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 16,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Public Admin. & Dev'p",
+    "under": "CBE | FBE",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 17,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+   {
+    "name": "Educational Planning & Management",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 18,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Psychology",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 19,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Special Needs & Inclusive",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 20,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Amharic Lang. & Literature",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 21,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Biology",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 22,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Civic & Moral Education",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 23,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Speech-Language Therapy",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 24,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "English Language Teaching",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 25,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Chemistry",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 26,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Geography",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 27,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Mathematics",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 28,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Physical Education",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 29,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Phyics",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 30,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/" ,
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Afan Oromo & Literature",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 31,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Doctor of Physiotherapy",
+    "under": "Tikur Anbesa",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 32,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Radiological Technology",
+    "under": "Tikur Anbesa",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 33,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Other Health",
+    "under": "Tikur Anbesa",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 34,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Anesthesia",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 35,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Doctor of Dental Medicine",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 36,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Doctor of Medicine",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 37,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Medical Laboratory",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 38,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Midwifery",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 39,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Nursing",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 40,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Pharmacy",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 41,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Oromo Language & Communication",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 42,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Oromo Literature & Folklore",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 43,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Afan Oromo, Literature & Communication",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 44,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Arabic Language & Communication",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 45,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Chinese Language",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 46,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "English Language & Communication",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 47,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Ethiopian Lang. Literature- Amharic",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 48,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Ethiopian Sign Language",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 49,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "French Language and Professional Skills",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 50,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Journalism and Communication",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 51,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Linguistics",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 52,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Modern European Languages",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 53,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Tigrigna Lang. Literature & Folklore",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 54,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Journalism and Communication",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 55,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Bachelor of Laws",
+    "under": "Sefere Selam",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 56,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Biology",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 57,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },  
+  {
+    "name": "Chemistry",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 58,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },  
+  {
+    "name": "Computer Science",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 59,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },  
+  {
+    "name": "Geology",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 60,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },  
+  {
+    "name": "Informatiom Systems",
+    "under": "4kilo | CBE",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 61,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },  
+  {
+    "name": "Library Science",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 62,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },  
+  {
+    "name": "Mathematics",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 63,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },  
+  {
+    "name": "Sport Science",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 64,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Statistics",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 65,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Fine Arts & Design",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 66,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Music",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 67,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Theatre Arts",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 68,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Art Education",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 69,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Industrial Design",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 70,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Painting",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 71,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Print Making",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 72,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Sculpture",
+    "under": "4kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 73,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Social Work Degree",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 74,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Archeology Heritage & Tourism",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 75,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
 
+  {
+    "name": "Geography & Environmental Studies",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 76,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+
+  {
+    "name": "History",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 77,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Philosophy",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 78,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Political Science & International Relations",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 79,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Social Anthroplogy",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 80,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Sociology",
+    "under": "Main | 6Kilo",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 81,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Agricultural Economics",
+    "under": "Bishoftu",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 82,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Animal Science",
+    "under": "Bishoftu",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 83,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Horticulture",
+    "under": "Bishoftu",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 84,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Plant Science",
+    "under": "Bishoftu",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 85,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Veterinary Laboratory Tech.",
+    "under": "Bishoftu",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 86,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Doctor of Veterinary Medicine",
+    "under": "Bishoftu",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 87,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Architecture",
+    "under": "Lideta",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 88,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Construction Technology & Management",
+    "under": "Lideta",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 89,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  },
+  {
+    "name": "Urban Planning & Design",
+    "under": "Lideta",
+    "description":
+      "Software Engineering at AAiT (Addis Ababa Institute of Technology) is a specialized discipline offered within the university's engineering and technology programs. ",
+    "id": 90,
+    "years": 4,
+    "gpa": 75,
+    "tgChannel": "http://google.com/",
+    "img": "./images/icons/education.png"
+  } 
+]
